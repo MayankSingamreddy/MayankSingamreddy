@@ -1,5 +1,5 @@
 # I aspire to be a data scientist that does more than call libraries.
-![alt text](https://node-tap.org/static/brain-a6d64ccf9d88afc2c186327bb79db2bd.gif)
+![alt text](https://media0.giphy.com/media/qFLeFhS27dJew/giphy.gif)
 
 Rutgers NB class of 2022
 B.S. Computer science student
