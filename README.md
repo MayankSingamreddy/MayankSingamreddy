@@ -13,6 +13,6 @@ Coursework:
 - Computer Architecture
 - Systems Programming
 - Linear Algebra
-- Linear Optimization
 - Software Methodology
 - Principles of Info + Data Management
+- Intro To Artificial Intelligence
