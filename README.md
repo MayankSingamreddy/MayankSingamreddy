@@ -1,4 +1,4 @@
-# I aspire to be a data scientist that does more than call libraries.
+# I aspire to be a data scientist 
 
 Rutgers NB class of 2022
 B.S. Computer science student
