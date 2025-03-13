@@ -1,7 +1,7 @@
 # Mayank Singamreddy
 I work on projects that excite me and help others. 
 
-Currently at Apple
+Currently at Apple  
 Rutgers NB Class of 2022  
 B.S. Computer Science
 
