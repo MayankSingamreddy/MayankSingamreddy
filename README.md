@@ -1,6 +1,6 @@
 # Mayank Singamreddy
 
-Currently a SWE at Apple. I work on projects that excite me.   
+Previously a SWE at Apple. I work on projects that excite me.   
 
 Born to make repo public, forced to commit privately :( 
 
