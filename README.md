@@ -6,4 +6,4 @@ Born to make repo public, forced to commit privately :(
 
 ## Public Facing Projects
 - [The Colors of Anime](http://thecolorsofanime.com/)
-- [Personal Website](https://singamreddy.com/)
+- [Personal Site](https://singamreddy.com/)
