@@ -1,8 +1,6 @@
 # Mayank Singamreddy
 
-Previously a SWE at Apple. I work on projects that excite me.   
-
-Born to make repo public, forced to commit privately :( 
+No, I will not be open-sourcing my 100% vibe coded slop with you. *hmph*
 
 ## Public Facing Projects
 - [The Colors of Anime](http://thecolorsofanime.com/)
