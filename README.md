@@ -1,8 +1,6 @@
 # Mayank Singamreddy
 
-Trying everything I can think of. Obsessive. 
-
-In another life I would've been a buddhist monk product designer.
+In another life I would've been a buddhist monk.
 
 ## Public Facing Projects
 - [Cravr](https://apps.apple.com/us/app/cravr-smarter-food-search/id6754335758)
