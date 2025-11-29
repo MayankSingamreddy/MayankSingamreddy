@@ -1,6 +1,8 @@
 # Mayank Singamreddy
 
-No, I will not be open-sourcing my 100% vibe coded slop with you. *hmph*
+Trying everything I can think of. Obsessive. 
+
+In another life I would've been a buddhist monk product designer.
 
 ## Public Facing Projects
 - [Cravr](https://apps.apple.com/us/app/cravr-smarter-food-search/id6754335758)
