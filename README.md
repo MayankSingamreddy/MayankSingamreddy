@@ -1,8 +1,6 @@
-# Mayank Singamreddy
-
 In another life I would've been a buddhist monk.
 
-## Currently building Squarediff to hillclimb agent harnesses for accuracy/cost balancing 
+## Squarediff autonomously hillclimb agent harnesses for the maximum accuracy and cost  
 
 - [SquareDiff](squarediff.com)
 - [Cravr](https://apps.apple.com/us/app/cravr-smarter-food-search/id6754335758)
