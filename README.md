@@ -2,9 +2,9 @@
 
 In another life I would've been a buddhist monk.
 
-## Public Facing Projects
+## Currently building Squarediff to hillclimb agent harnesses for accuracy/cost balancing 
+
+- [SquareDiff](squarediff.com)
 - [Cravr](https://apps.apple.com/us/app/cravr-smarter-food-search/id6754335758)
-- [The Colors of Anime](http://thecolorsofanime.com/)
-- [CheerSphere iOS App](https://apps.apple.com/us/app/cheersphere/id6503993239)
-- [Skinny Feels](https://skinnyfeels.app/)
+- [CheerSphere](https://apps.apple.com/us/app/cheersphere/id6503993239)
 - [Personal Site](https://singamreddy.com/)
